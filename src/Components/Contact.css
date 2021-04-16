@@ -1,0 +1,18 @@
+.contact{
+    height: 50vh;
+    background-color: rgb(133, 26, 204);
+    color: white;
+    text-decoration: none;
+}
+.contact a{
+    font-size: 3vh;
+    color: rgb(247, 244, 238);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    padding-top: 2vh;
+}
+.contact a:hover{
+    color: black;
+}
+.form-det{
+    width: 15vw;
+}

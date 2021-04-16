@@ -1,0 +1,12 @@
+.search-content{
+    height: 70vh;
+    width: 100%;
+    background-color: rgb(210, 170, 247);
+}
+.search-content p{
+  color: rgb(252, 18, 18);
+  font-size: 3vh;
+}
+  #ex1Slider .slider-selection {
+    background: #BABABA;
+  }

@@ -1,0 +1,96 @@
+.content{
+    width: 100%;
+    height: 90vh;
+    background-image: url('./Images/real\ estate 1.jpg');
+    /* background-color: blueviolet; */
+    opacity: 1;
+    background-size: cover;
+}
+.content-left{
+    width: 40%;
+    float: left;
+}
+.content-right{
+    width: 60%;
+    float: left;
+}
+#content-left span{
+    height: 50vh;
+    width: 40vw;
+    background-color: black;
+}
+#content-left {
+    padding-top: 20vh;
+    padding-left: 10vw;
+    font-size: 6vh;
+    color:white;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+    animation: 3s slidein-right;
+}
+@keyframes slidein-right {
+    0% {
+        transform: translateX(100%);
+    }
+    100% {
+        transform: translateX(0);
+    }
+}
+/* .content-left span{
+    padding-top: 60vh;
+    padding-left: 20vw;
+    font-size: 8vh;
+    color: rgb(31, 19, 2);
+} */
+.content-right{
+   
+}
+
+.search {
+    padding-top: 8vh;
+    padding-left: 15vw;
+    
+    text-align: center;
+    
+}
+
+#search-text{
+    font-size: 5vh;
+    background-color: brown;
+    border: 0.5vh solid rgb(235, 243, 235) ;
+    color:rgb(241, 234, 234);
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+    animation: 5s slide-up;
+    margin-top: 0%;
+    
+}
+@keyframes slideup {
+    from{
+        margin-top: 100%;
+    }
+    to{
+        margin-top: 0%;
+    }
+}
+.content h2{
+    height: 5vh;
+    width: 20vw;
+   
+   color: white;
+    
+}
+/* .carousel slide{
+    padding-top: 2vh;
+} */
+.content .col-sm-7{
+    padding-top: 2vh;
+}
+.container1{
+    padding-top: 2vh;
+}
+.carousel-inner img{
+    width: 100%;
+    height: 60vh;
+    max-height: 60vh;
+    overflow: hidden;
+    object-fit: cover;
+}
