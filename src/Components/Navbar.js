@@ -2,7 +2,7 @@ import React, { Component } from 'react'
 import Scroll from 'react-scroll'
 
 import './Navbar.css';
-import About from './About';
+
 import logo from './Images/Logo.jpeg';
 
 const ScrollLink = Scroll.ScrollLink

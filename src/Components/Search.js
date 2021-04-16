@@ -1,18 +1,10 @@
 import './Search.css';
 import React from 'react';
-import Slider from 'react-rangeslider';
+
 
 class Search extends React.Component{
 
-  componentDidMount(){
 
-
-var slider = new Slider('#ex1', {
-	formatter: function(value) {
-		return 'Current value: ' + value;
-	}
-});
-  }
 
   
   render(){

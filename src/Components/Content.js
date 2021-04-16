@@ -1,7 +1,7 @@
 import './Content.css';
 import Azea from './Images/Azea Botenica.jpeg';
 import Sage from './Images/Sage City.jpeg';
-// import OE from './Images/Officer Enclave.jpeg';
+
 import SG from './Images/Shiva Greens.jpeg';
 import SSB from './Images/Sri Sai Basera.jpeg';
 import TH from './Images/The Hive.jpg';
@@ -38,7 +38,7 @@ function Content(){
         <img src={Azea} alt="Azea Botenica"  />
         <div class="carousel-caption">
           <h3>Azea Botenica</h3>
-          {/* <p>LA is always so much fun!</p> */}
+         
         </div>
       </div>
 
@@ -46,7 +46,7 @@ function Content(){
         <img src={Sage} alt="Sage City"  />
         <div class="carousel-caption">
           <h3>Sage City</h3>
-          {/* <p>Thank you, Chicago!</p> */}
+          
         </div>
       </div>
     
@@ -54,7 +54,7 @@ function Content(){
         <img src={SG} alt="Shiva Greens"  />
         <div class="carousel-caption">
           <h3>Shiva Greens</h3>
-          {/* <p>We love the Big Apple!</p> */}
+       
         </div>
       </div>
 
@@ -62,7 +62,7 @@ function Content(){
         <img src={TH} alt="The Hive"  />
         <div class="carousel-caption">
           <h3>The Hive</h3>
-          {/* <p>Thank you, Chicago!</p> */}
+         
         </div>
       </div>
 
@@ -70,7 +70,7 @@ function Content(){
         <img src={SSB} alt="The Hive"  />
         <div class="carousel-caption">
           <h3>Sri Sai Basera</h3>
-          {/* <p>Thank you, Chicago!</p> */}
+          
         </div>
       </div>
   
