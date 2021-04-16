@@ -9,18 +9,18 @@ function Contact(){
 Awadh Landmark Reality Pvt. Ltd. is a company with rich experience in real estate advisory that believes each real estate experience should be a simple and successful execution from a Dream to Reality. Our team of Real Estate advisors is driven by the fundamental values of customer satisfaction, credibility and professionalism Awadh Landmark Reality Pvt. Ltd.  has some of the best professionals in real estate industry who specialize in finding property just as per your requirement.
     </div>
     <div class='col-sm-3'>
-        <a href="" target='_blank'>NRI Services</a><br/>
-        <a href="" target='_blank'>News</a><br/>
-        <a href="" target='_blank'>Events</a><br/>
-        <a href="" target='_blank'>Awards</a><br/>
-        <a href="" target='_blank'>Careers</a><br/>
+        <a href="# " target='_blank'>NRI Services</a><br/>
+        <a href="# " target='_blank'>News</a><br/>
+        <a href="# " target='_blank'>Events</a><br/>
+        <a href="# " target='_blank'>Awards</a><br/>
+        <a href="# " target='_blank'>Careers</a><br/>
     </div>
     <div class='col-sm-3'>
-        <a href="" target='_blank'>Terms</a><br/>
-        <a href="" target='_blank'>Privacy</a><br/>
-        <a href="" target='_blank'>FAQs</a><br/>
-        <a href="" target='_blank'>Our Services</a><br/>
-        <a href="" target='_blank'>Contact</a><br/>
+        <a href="# " target='_blank'>Terms</a><br/>
+        <a href="# " target='_blank'>Privacy</a><br/>
+        <a href="# " target='_blank'>FAQs</a><br/>
+        <a href="# " target='_blank'>Our Services</a><br/>
+        <a href="# " target='_blank'>Contact</a><br/>
     </div>
     <div class='col-sm-3'>
         <h2>Subscribe To Our Newsletter</h2>
