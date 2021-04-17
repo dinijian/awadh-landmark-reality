@@ -1,12 +1,20 @@
 .contact{
     /* height: 50vh; */
-    background-color: rgb(133, 26, 204);
+    background-color: rgba(32, 16, 43, 0.959);
     color: white;
     text-decoration: none;
+    padding: 2vh;
+}
+.contact h3{
+    color: chocolate;
+}
+.contact span{
+    font-size: 2vh;
+    color: darkgray;
 }
 .contact a{
-    font-size: 3vh;
-    color: rgb(247, 244, 238);
+    font-size: 2vh;
+    color: rgb(247, 242, 238);
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     padding-top: 2vh;
 }

@@ -8,9 +8,12 @@ function Contact(){
   <div class='row'>
 
   <div class='col-sm-3'>
+<span>
 Awadh Landmark Reality Pvt. Ltd. is a company with rich experience in real estate advisory that believes each real estate experience should be a simple and successful execution from a Dream to Reality. Our team of Real Estate advisors is driven by the fundamental values of customer satisfaction, credibility and professionalism Awadh Landmark Reality Pvt. Ltd.  has some of the best professionals in real estate industry who specialize in finding property just as per your requirement.
+</span>
     </div>
     <div class='col-sm-3'>
+      <h3>Quick Links</h3>
         <a href="# " target='_blank'>NRI Services</a><br/>
         <a href="# " target='_blank'>News</a><br/>
         <a href="# " target='_blank'>Events</a><br/>
@@ -18,6 +21,7 @@ Awadh Landmark Reality Pvt. Ltd. is a company with rich experience in real estat
         <a href="# " target='_blank'>Careers</a><br/>
     </div>
     <div class='col-sm-3'>
+      <h3>About Us</h3>
         <a href="# " target='_blank'>Terms</a><br/>
         <a href="# " target='_blank'>Privacy</a><br/>
         <a href="# " target='_blank'>FAQs</a><br/>
@@ -25,7 +29,7 @@ Awadh Landmark Reality Pvt. Ltd. is a company with rich experience in real estat
         <a href="# " target='_blank'>Contact</a><br/>
     </div>
     <div class='col-sm-3'>
-        <h2>Subscribe To Our Newsletter</h2>
+        <h3>Subscribe To Our Newsletter</h3>
         <div class="container">
  
   <form className='form-det'>
