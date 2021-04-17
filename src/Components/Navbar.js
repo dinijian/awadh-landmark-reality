@@ -62,7 +62,7 @@ render(){
           <div class="collapse navbar-collapse" id="myNavbar">
             <ul class="nav navbar-nav">
               <li class="active"><a href="# ">Home</a></li>
-              <li><a href='# ' onclick="return Func();">About</a></li>
+              <li><a href='#about' onclick="return Func();">About</a></li>
               <li>
               
               </li>
@@ -75,7 +75,7 @@ render(){
                 </ul>
               </li>
               <li><a href="# ">Video Tour</a></li>
-              <li><a href="# ">Contact Us</a></li>
+              <li><a href="#contact">Contact Us</a></li>
             </ul>
             <ul class="nav navbar-nav navbar-right">
               <li><a href="# "><span class="glyphicon glyphicon-user"></span> Sign Up</a></li>

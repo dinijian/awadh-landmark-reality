@@ -10,7 +10,7 @@ export default function About() {
   return (
     <React.Fragment>
     
-      <Element id='example-destination' name='example-destination'>
+      <Element id='about' name='example-destination'>
       <div className='About'>
         <div className='about-header'>
             About Us
