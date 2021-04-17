@@ -12,7 +12,7 @@ class Search extends React.Component{
     
 
     return(
-<div className='search-content'>
+<div className='search-content' id='search-content'>
 
 <div class="container">
   <h2>Search For Your Dream Home</h2>

@@ -1,4 +1,5 @@
-import React, { Component } from 'react'
+import React, { Component } from 'react';
+import { Link } from 'react-router-dom';
 
 
 import './Navbar.css';
@@ -69,9 +70,10 @@ render(){
               <li class="dropdown">
                 <a class="dropdown-toggle" data-toggle="dropdown" href="# ">Projects <span class="caret"></span></a>
                 <ul class="dropdown-menu ">
-                  <li><a  href='# '>Ready To Move</a></li>
+                  {/* <li><a  href='# '>Ready To Move</a></li> */}
+                  <li><Link to="/ReadyToMove">Ready To Move</Link></li>
                   <li><a href="# ">Work In Full Progress</a></li>
-                  <li><a href="# ">Search Your Home</a></li>
+                  <li><a href="#search-content">Search Your Home</a></li>
                 </ul>
               </li>
               <li><a href="# ">Video Tour</a></li>
